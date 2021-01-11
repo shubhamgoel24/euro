@@ -1,0 +1,8 @@
+https://www.figma.com/proto/OGOmqLZEBHDh9PrnRkth8F/Untitled?node-id=1%3A2&scaling=min-zoom
+
+copy paste the link above to check design template.
+For suggestions you can try the following:-
+1. On figma: Use comments to flag a component and describe it.
+2. Add comments here within "page1-draft.txt".
+3. Create an issue within this repository.
+Try your best at being descriptive.
